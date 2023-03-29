@@ -1,12 +1,12 @@
-<strong><h2>Olá! Eu sou o Mariano Guedes 👋<h2>
-<h5>Estudando de Engenharia de Software e aprendiz do mundo da Tecnologia.<h5>
+<strong><h4>Olá! Eu sou o Mariano Guedes 👋<h4>
+<h6>Estudando de Engenharia de Software e aprendiz do mundo da Tecnologia.<h6>
 
 <br>
 
 <strong><h4>About Me:<h4>
 
-<h5>•👨‍💻- FrontEnd Engineer At Freelancer
-<h5>•❤️- I Love Javascript for making dreams come true.
+<h6>•👨‍💻- FrontEnd Engineer At Freelancer<h6>
+<h6>•❤️- I Love Javascript for making dreams come true.<h6>
 
 <br>
 
