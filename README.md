@@ -1,12 +1,12 @@
 <div>
-<h3><strong>Olá! Eu sou o Mariano Guedes 👋
+<h3><strong>Olá! Eu sou o Mariano Guedes 👋</strong>
 <h4>Estudando de Engenharia de Software e aprendiz do mundo da Tecnologia.
 
 <br>
 </div>
 
 <div>
-<h3><strong>About Me:
+<h3><strong>About Me:</strong>
 
 <h4>•👨‍💻- FrontEnd Engineer At Freelancer
 <h4>•❤️- I Love Javascript for making dreams come true.
@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<h3><strong>Reach Me:<h4>
+<h3><strong>Reach Me:<h4></strong>
 </div>
 
 <a href="https://www.linkedin.com/in/marianoguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,7 +32,7 @@
 <br>
 
 <div>
-<h3><strong>Languages and Tools:<h4>
+<h3><strong>Languages and Tools:<h4></strong>
 </div>
 
 <div style="display: inline_block"><br>
