@@ -12,7 +12,7 @@
 
 <strong><h4>Reach Me:<h4>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:://https://www.linkedin.com/in/marianoguedes/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https:://https://www.linkedin.com/in/marianoguedes/])
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:://mailto:marianoguedesjob@hotmail.com?body=Ol%C3%A1%20Andrey%20Mariano%2C%20tudo%20bem%3F)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https:://https://discord.com/channels/@me/1068243080895017042)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https:://https://www.twitch.tv/ypandiinhadab)
