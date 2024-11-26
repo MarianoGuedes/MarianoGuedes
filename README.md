@@ -8,7 +8,7 @@
 <div>
 <h3><strong>About Me:</strong>
 
-<h4>•👨‍💻- FrontEnd Engineer
+<h4>•👨‍💻- FrontEnd Developer
 <h4>•❤️- I Love PHP for making dreams come true.
 
 <br>
